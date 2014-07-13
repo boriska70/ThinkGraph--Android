@@ -1,0 +1,16 @@
+<resources>
+
+    <string name="app_name">ThinkGraph</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Think Graph</string>
+    <string name="btn_start_rec">Click to record</string>
+    <string name="btn_stop_rec">Stop</string>
+    <string name="btn_play_rec">Play</string>
+    <string name="tab_voice_rec">Voice Recording</string>
+    <string name="tab_my_tags">My Tags</string>
+    <string name="text_voice_intro">Welcome, record your ideas with one click!</string>
+    <string name="text_voice_lastrc">Your last playback:</string>
+    <string name="text_browse_title">Browse your ideas:</string>
+    <string name="tag_browse_title">Browse associated records:</string>
+
+</resources>
